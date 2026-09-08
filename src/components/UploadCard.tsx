@@ -1,4 +1,4 @@
-﻿import React, { useState, useRef } from 'react';
+import React, { useState, useRef } from 'react';
 import type { DragEvent, ChangeEvent } from 'react';
 import { UploadCloud, Clock, AlertCircle, Loader2 } from 'lucide-react';
 import type { ExpiryDuration } from '../lib/utils';

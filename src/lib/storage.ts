@@ -1,4 +1,4 @@
-﻿import { getSupabaseClient, isSupabaseConfigured } from './supabase';
+import { getSupabaseClient, isSupabaseConfigured } from './supabase';
 import { calculateExpiry, generateLongToken } from './utils';
 import type { ExpiryDuration } from './utils';
 

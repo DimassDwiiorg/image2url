@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Link2, Sun, Moon, Database } from 'lucide-react';
 import { isSupabaseConfigured } from '../lib/supabase';

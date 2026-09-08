@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { Link2, Copy, Check, ExternalLink, RefreshCw, Calendar, Sparkles } from 'lucide-react';
 import { copyToClipboard } from '../lib/utils';
 import type { ImageRecord } from '../lib/storage';

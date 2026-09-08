@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { X, Database, Check, AlertCircle, Copy, ExternalLink, Key, Globe } from 'lucide-react';
 import { getStoredSupabaseConfig, saveSupabaseConfig, clearSupabaseConfig, testSupabaseConnection } from '../lib/supabase';
 import { copyToClipboard } from '../lib/utils';

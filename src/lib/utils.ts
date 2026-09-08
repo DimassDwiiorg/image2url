@@ -1,4 +1,4 @@
-﻿export type ExpiryDuration = '1_day' | '1_week' | '1_month';
+export type ExpiryDuration = '1_day' | '1_week' | '1_month';
 
 /**
  * Menghasilkan token URL yang panjang, unik, dan aman

@@ -1,4 +1,4 @@
-﻿# ImgURL - Image to URL Converter
+# ImgURL - Image to URL Converter
 
 Website konverter gambar ke URL instan dengan dukungan masa aktif tautan (1 hari, 1 minggu, 1 bulan), token URL panjang berkeamanan tinggi, integrasi database & storage Supabase, halaman 404 keren saat link kedaluwarsa, dan tampilan modern yang presisi sesuai referensi.
 

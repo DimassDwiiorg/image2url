@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import confetti from 'canvas-confetti';
 import { UploadCard } from '../components/UploadCard';
 import { ResultBar } from '../components/ResultBar';

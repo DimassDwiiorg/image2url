@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { X, UploadCloud, Clock, Link2, ShieldCheck, HelpCircle } from 'lucide-react';
 
 interface ModalBaseProps {

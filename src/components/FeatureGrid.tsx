@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Zap, ShieldCheck, Link2, Smartphone } from 'lucide-react';
 
 export const FeatureGrid: React.FC = () => {

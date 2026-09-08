@@ -1,4 +1,4 @@
-﻿import { createClient, SupabaseClient } from '@supabase/supabase-js';
+import { createClient, SupabaseClient } from '@supabase/supabase-js';
 
 const STORAGE_KEY_URL = 'imgurl_supabase_url';
 const STORAGE_KEY_KEY = 'imgurl_supabase_key';
