@@ -1,7 +1,7 @@
 ﻿-- =========================================================
 -- SQL SCHEMA FOR IMAGE TO URL (ImgURL) - DEVELOPED BY DIMAS
 -- =========================================================
--- Jalankan skrip ini di SQL Editor Supabase dashboard Anda.
+
 
 -- 1. Buat tabel 'images' untuk menyimpan data & masa kedaluwarsa link
 CREATE TABLE IF NOT EXISTS public.images (
